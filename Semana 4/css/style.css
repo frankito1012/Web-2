@@ -1,0 +1,40 @@
+/* Fondo */
+body{
+	background-color: #D2AE34;
+}
+
+
+/* Caracteristicas del texto */
+
+.title{
+	display: none;
+	position: relative;
+	text-align: center;
+	color: #E5E5E5;
+	font-size: 28px;
+	top: -300px;
+	padding-top: 180px;
+	padding-left: 600px;
+	padding-right: 750px;
+	font-family:  "Arial", sans-serif;
+}
+
+/* El hover del texto */
+
+div.title:hover,
+a.wrapper:hover + div{
+	display: block;
+}
+
+img{
+	margin-left: 380px;
+}
+
+div.text{
+	text-align: center;
+	font-family:  "Arial", sans-serif;
+	color: #E5E5E5;
+	font-size: 30px;
+    padding-right: 150px;
+   
+}
