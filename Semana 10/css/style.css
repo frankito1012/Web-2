@@ -8,11 +8,12 @@ body {
 
 .myform {
 	margin-top: 100px;
-	color: red;
-    font-size: 11px;
+	color: gray;
+    font-size: 13px;
     font-family: Helvetica, sans-serif;
-    text-transform: lowercase;
     text-align: center;
+
+
 
 }
 .cloud{
@@ -28,6 +29,14 @@ body {
 .h2{
 	color: #AAAAAA;
 	font-family: 'Nexa Rust Sans Black';
-	margin-top: 100px;
+	margin-top: 50px;
 }
 
+.form{
+	width: 700px;
+	font-size: 25px;
+	padding: 50px;
+	margin: auto;
+	text-align: left;
+	margin-left: 670px;
+}
