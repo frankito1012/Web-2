@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #404040;
+  background-color: #000000;
+  text-align: center;
+  
+}
+
+.myform {
+	margin-top: 100px;
+	color: red;
+    font-size: 11px;
+    font-family: Helvetica, sans-serif;
+    text-transform: lowercase;
+    text-align: center;
+
+}
+.cloud{
+	margin-top: -200px;
+	float: left;
+
+}
+
+.wismec-logo{
+	margin-top: 60px;
+}
+
+.h2{
+	color: #AAAAAA;
+	font-family: 'Nexa Rust Sans Black';
+	margin-top: 100px;
+}
+
